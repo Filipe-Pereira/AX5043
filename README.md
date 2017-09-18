@@ -1,2 +1,3 @@
 # AX5043
-AX5043 C code
+C code to configure registers on AX5043 transceiver (On Semi, former AXSEM)
+using wiringPI library (SPI)
